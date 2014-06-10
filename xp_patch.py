@@ -5,8 +5,6 @@ SHELXL commands RIGU and ABIN.
 The program is compatible with Python version 2.3.5 up to 3.4.1.
 Feel free to do anything you like with this code.
 
-Use it as "c:\bn\python\python.exe xp_patch.py c:\bn\SXTL\xp.exe"
-The original executable will be backed up as "xp.exe.bak".
 
 Daniel Kratzert
 dkratzert@gmx.de
